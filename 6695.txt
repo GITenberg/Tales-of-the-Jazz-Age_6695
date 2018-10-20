@@ -363,7 +363,7 @@ When the dusk had thickened into a blue setting for the moon, he
 walked through the hot, pleasantly pungent town to Jackson Street. The
 stores were closing and the last shoppers were drifting homeward, as
 if borne on the dreamy revolution of a slow merry-go-round. A
-street-fair farther down a brilliant alley of varicolored booths and
+street-fair farther down a brilliant alley of varicolored booths
 contributed a blend of music to the night--an oriental dance on a
 calliope, a melancholy bugle in front of a freak show, a cheerful
 rendition of "Back Home in Tennessee" on a hand-organ.
@@ -833,7 +833,7 @@ two boys at the next table.
 
 Joe looked around.
 
-"We don't want to draw a crowd. It's against club rules.
+"We don't want to draw a crowd. It's against club rules."
 
 "Nobody's around," insisted Clark, "except Mr. Taylor. He's walking up
 and down, like a wild-man trying find out who let all the gasolene out
